@@ -1,0 +1,6 @@
+your info fake
+age: 11
+gender: male
+likes: eating crocodiles, having fun with pigs
+dislikes: eating grass
+lives in: denmark
